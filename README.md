@@ -4,7 +4,7 @@ O projeto consiste em um estudo da taxa de evasão de clientes de uma operadora 
 ## Etapas do projeto
 Este projeto será dividido em três etapas:
 * [Limpeza dos dados trazidos de uma API](https://github.com/aclaragonzalez/alura-voz/blob/main/limpeza.ipynb)
-* Análise exploratória dos  dados
+* [Análise exploratória dos  dados](https://github.com/aclaragonzalez/alura-voz/blob/main/analise.ipynb)
 * Aplicação de modelos classificatórios de Machine Learning (ML)
 
 ## Dicionário dos dados
