@@ -6,6 +6,7 @@ Este projeto será dividido em três etapas:
 * [Limpeza dos dados trazidos de uma API](https://github.com/aclaragonzalez/alura-voz/blob/main/limpeza.ipynb)
 * [Análise exploratória dos  dados](https://github.com/aclaragonzalez/alura-voz/blob/main/analise.ipynb)
 * [Aplicação de modelos classificatórios de Machine Learning (ML)](https://github.com/aclaragonzalez/alura-voz/blob/main/modelos.ipynb)
+* [Aplicação de modelos classificatórios de Machine Learning sem balanceamento de dados](https://github.com/aclaragonzalez/alura-voz/blob/main/modelos-sem-resample.ipynb)
 
 ## Dicionário dos dados
 O dicionário dos dados pode ser acessado [aqui](https://github.com/aclaragonzalez/alura-voz/blob/main/dicionario.md).
